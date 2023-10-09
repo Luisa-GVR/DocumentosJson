@@ -1,0 +1,46 @@
+{
+
+  "Invoice": {
+    "contactInformation" : {
+      "business name" : "",
+      "Street addres" : {
+
+        "city" : "city",
+        "State" : "state",
+        "ZIPCode" : "ZIPCode"
+
+      },
+      "number" : "(000) 000 0000",
+      "Email" : "email",
+      "Website" : "Website"
+
+    },
+
+    "Invoice details" : {
+      "Invoice number" : "Invoice #12345",
+      "Date" : "mm/dd/yyyy",
+      "Terms" : "Net 30"
+
+    },
+    "DescriptionOfGoods" : [
+      {
+        "productOrService" : "Product or service",
+        "description" : "Describe your product or service",
+        "hrs" : 0,
+        "rate" : 0,
+        "amount" : 0
+      },
+      {
+        "productOrService" : "Product or service",
+        "description" : "Describe your product or service",
+        "hrs" : 0,
+        "rate" : 0,
+        "amount" : 0
+      }
+
+    ]
+
+
+  }
+
+}
